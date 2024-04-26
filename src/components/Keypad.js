@@ -1,7 +1,7 @@
 // Code Keypad Component Here
 
 function Keypad() {
-    const handleChange = (event) => {
+    function handleChange (event){
       console.log('Entering password...');
     };
   
